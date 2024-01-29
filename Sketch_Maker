@@ -1,0 +1,15 @@
+import cv2
+
+image = cv2.imread("C:/Users/SATYAM/Pictures/Camera Roll/WIN_20230116_20_45_33_Pro")
+
+grey_image = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
+
+invert = cv2.bitwise_not(grey_image)
+
+blur = cv2.GaussianBlur(invert,(21,21),0)
+
+invert_blur = cv2.bitwise_not(blur)
+
+sketch = cv2.divide(grey_image,invert_blur,scale=256.0)
+
+cv2.imwrite("Adarsh kumar.jpg",sketch)
