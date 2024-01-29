@@ -1,0 +1,55 @@
+#Title: Python Practicals
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Python Practicals
+2. Practical 1: Variables and Data Types
+3. Practical 2: Conditional Statements
+4. Practical 3: Loops
+5. Practical 4: Functions
+6. Practical 5: File Handling
+7. Practical 6: Error Handling
+8. Summary
+
+#Slide: 2
+#Header: Introduction to Python Practicals
+#Content: 
+Python practicals are hands-on exercises that help you apply your knowledge of Python programming concepts. These practicals are designed to enhance your understanding and proficiency in Python.
+
+#Slide: 3
+#Header: Practical 1: Variables and Data Types
+#Content: 
+In this practical, you will learn how to declare variables, assign values, and work with different data types such as integers, floats, strings, and booleans. You will also explore type conversion and basic arithmetic operations.
+
+#Slide: 4
+#Header: Practical 2: Conditional Statements
+#Content: 
+This practical focuses on conditional statements like if, else, and elif. You will learn how to write code that makes decisions based on certain conditions. You will also practice using comparison and logical operators.
+
+#Slide: 5
+#Header: Practical 3: Loops
+#Content: 
+Loops are essential in programming. In this practical, you will understand the concepts of for and while loops. You will learn how to iterate over lists, dictionaries, and perform repetitive tasks efficiently.
+
+#Slide: 6
+#Header: Practical 4: Functions
+#Content: 
+Functions allow you to reuse code and make your programs modular. In this practical, you will learn how to define and call functions, pass arguments, and return values. You will also explore built-in functions and create your own.
+
+#Slide: 7
+#Header: Practical 5: File Handling
+#Content: 
+File handling is crucial for reading from and writing to files. In this practical, you will learn how to open, read, write, and close files using Python. You will also practice handling exceptions related to file operations.
+
+#Slide: 8
+#Header: Practical 6: Error Handling
+#Content: 
+Errors are common in programming. This practical focuses on error handling techniques using try-except blocks. You will learn how to catch and handle different types of errors, ensuring your programs run smoothly.
+
+#Slide: 9
+#Header: Summary
+#Content: 
+Python practicals cover various aspects of programming, including variables, data types, conditionals, loops, functions, file handling, and error handling. By practicing these concepts, you will gain confidence in your Python skills and be able to tackle real-world programming challenges.
+
+#Slide: END
